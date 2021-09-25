@@ -1,7 +1,7 @@
 <template>
   <v-container>
-    <div class="cam">
-      <h1>This is an cam page</h1>
+    <div class="webcam">
+      <h1>Webcam page</h1>
     </div>
   </v-container>
 </template>

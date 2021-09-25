@@ -1,0 +1,10 @@
+<template>
+  <h5>Hello World</h5>
+</template>
+
+<script>
+export default {
+  name: "Nav",
+  data: () => ({}),
+};
+</script>
