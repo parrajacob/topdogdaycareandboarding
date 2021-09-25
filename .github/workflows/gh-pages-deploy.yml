@@ -13,7 +13,7 @@ jobs:
           with:
             node-version: '12'
         - name: Install packages
-          run: npm i
+          run: npm ci
         - name: Set Creds
           run: git config user.name "parrajacob" && git config user.email "jacobisraelparra@gmail.com"
         - name: Deploy
