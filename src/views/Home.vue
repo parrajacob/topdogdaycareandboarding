@@ -1,10 +1,10 @@
 <template>
-  <v-container>
+<b-container>
     <div class="home">
       <img alt="Vue logo" class="size" src="../assets/topdog.jpg" />
       <!-- <HelloWorld /> -->
     </div>
-  </v-container>
+    </b-container>
 </template>
 
 

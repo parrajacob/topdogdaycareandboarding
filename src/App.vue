@@ -1,27 +1,27 @@
 <template>
   <div id="app">
-      <div id="nav">
+      <!-- <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
       <router-link to="/services">Services</router-link> |
       <router-link to="/portal">Portal</router-link> |
       <router-link to="/webcam">Webcam</router-link> |
       <router-link to="/contact">Contact</router-link>
-    </div>
+    </div> -->
 
-      <!-- <Navbar /> -->
+      <Navbar />
       <router-view />
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-// import Navbar from "@/components/Navbar.vue";
+import Navbar from "@/components/Navbar.vue";
 
 export default {
   name: "App",
   components: {
-    // Navbar,
+    Navbar,
   },
 };
 </script>
