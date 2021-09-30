@@ -1,7 +1,7 @@
 <template>
   <div>
     <b-navbar class="purple-background" toggleable="lg" type="dark">
-      <b-navbar-brand class="yellow-text" to="/"><b>Top Dog Daycare & Boarding</b></b-navbar-brand>
+      <b-navbar-brand class="yellow-text" to="/"><b>Top Dog Daycare <br> & Boarding</b></b-navbar-brand>
 
       <!-- <b-navbar-brand href="/">
         <img src="../assets/topdog2.png" alt="Top Dog Logo" />
