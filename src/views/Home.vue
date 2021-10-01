@@ -1,10 +1,10 @@
 <template>
-<b-container>
+  <b-container>
     <div class="home">
       <img alt="Vue logo" class="size" src="../assets/topdog.jpg" />
       <!-- <HelloWorld /> -->
     </div>
-    </b-container>
+  </b-container>
 </template>
 
 
@@ -12,7 +12,6 @@
 .size {
   width: -webkit-fill-available;
 }
-
 </style>
 
 <script>
