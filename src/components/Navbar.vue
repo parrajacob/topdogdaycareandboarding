@@ -4,7 +4,7 @@
       <b-navbar-brand class="yellow-text" to="/"><b>Top Dog Daycare <br> & Boarding</b></b-navbar-brand>
 
       <!-- <b-navbar-brand href="/">
-        <img src="../assets/topdog2.png" alt="Top Dog Logo" />
+        <img src="../assets/navbar/topdog2.png" alt="Top Dog Logo" />
       </b-navbar-brand> -->
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
