@@ -47,7 +47,7 @@
 </template>
 
 <style lang="scss">
-body {
+.background {
   background-image: url("~@/assets/portal-background.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
